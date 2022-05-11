@@ -1,0 +1,15 @@
+    [
+        {
+            "id" : 1,
+            "title" : "Samsung Galaxy A51",
+            "price" : "350",
+            "image_url" : "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//90/MTA-6333813/samsung_samsung_galaxy_a51_support_nfc_full19_bka6rxb4.jpg"
+        },
+        {
+            "id" : 2,
+            "title" : "Samsung Galaxy A12",
+            "price" : "150",
+            "image_url" : "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//90/MTA-10371428/samsung_samsung_full03.jpg"
+        }
+        
+    ]
